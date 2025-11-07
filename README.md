@@ -1,3 +1,3 @@
 # Konnoraibot
 ИИ бот в телеграмме
-ссылка: https://t.me/konnor_ai_bot
+Проект не поддерживатся! ИИ можно найти только в [юзерботе](https://github.com/DragonInc4/DylanUserBot/tree/main)
